@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-UDF6J6U</Machine>
+    <WindowsUser>Hans</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6eceea2c-68c5-4470-ad68-321688b29799</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>AC79E716183418870B6C8366CEDD282A4802BF5AE789802A9F680DBF774F93EE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6eceea2c-68c5-4470-ad68-321688b29799_1.0.0.0_neutral__hs605ttg4fbsc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6eceea2c-68c5-4470-ad68-321688b29799_hs605ttg4fbsc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6eceea2c-68c5-4470-ad68-321688b29799</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Hans</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-06T10:29:33.818</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-11-06T10:29:26.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-08-26T17:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-26T17:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-26T17:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-26T17:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-26T17:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-26T17:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-08-26T17:38:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-08-05T14:04:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2015-08-26T17:38:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2015-08-26T17:38:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\WinJS\js\parse-1.6.7.js">
+      <PackagePath>WinJS\js\parse-1.6.7.js</PackagePath>
+      <Modified>2015-11-06T10:25:38.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2015-08-26T17:38:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-08-26T17:38:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2015-08-26T17:38:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2015-08-26T17:38:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2015-08-26T17:38:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-06T10:29:33.490</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

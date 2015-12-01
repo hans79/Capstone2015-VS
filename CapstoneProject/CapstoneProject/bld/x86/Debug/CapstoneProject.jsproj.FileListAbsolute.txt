@@ -1,0 +1,16 @@
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bin\x86\Debug\ReverseMap\resources.pri
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bin\x86\Debug\AppxManifest.xml
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bin\x86\Debug\CapstoneProject.build.appxrecipe
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\ResourceHandlingTask.state
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\priconfig.xml
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\priconfig.xml.intermediate
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\layout.resfiles
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\layout.resfiles.intermediate
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\resources.resfiles
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\resources.resfiles.intermediate
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\pri.resfiles
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\pri.resfiles.intermediate
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\qualifiers.txt
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\qualifiers.txt.intermediate
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\ProjectArchitectures.txt
