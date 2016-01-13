@@ -1,5 +1,6 @@
 ﻿
 window.onload = function () {
+    /*
     Parse.initialize("66cwJB2R2fW0wG2Va44hzWajskfe7tEsFKvIXnFc", "64tImPApRrsLJknYLbyHjRgKFbqW8dkk51POZSyr");
     var ItemSize = localStorage.getItem("itemSize");
     var Cubbies = Parse.Object.extend("Box2");
@@ -19,8 +20,33 @@ window.onload = function () {
             alert("Error: " + error.code + " " + error.message);
         }
     });
-   
+   */
+    var ItemSize = localStorage.getItem("itemSize");
+    var x = new XMLHttpRequest();
+    x.open("GET", "http://localhost:3000/boxinfo/size"+ItemSize);
+    x.onload = function () {
+        if (x.status == 200) {
+            responseText = JSON.parse(x.responseText);
+            for (var i = 0; i < responseText.Box.length; i++) {
+                var object = responseText.Box[i].CubbyId;
+                if (responseText.Box[i].occupied == "False") {
+                    document.getElementById(object).style.visibility = "visible";
+                }
+                }
+        }
+    }
+    x.send(null);
+
     function SelectCubbyHandler(eventInfo) {
+        var target = event.target || event.srcElement;
+        var test = target.id;
+        document.getElementById("Message").innerHTML = test;
+        var tag = localStorage.getItem("HashTag");
+        var xml = new XMLHttpRequest();
+        xml.open("PUT", "http://localhost:3000/recipients/boxid/" + tag + "/" + test);
+        xml.send(null);
+        location.href = "main.html";
+        /*
         Parse.initialize("66cwJB2R2fW0wG2Va44hzWajskfe7tEsFKvIXnFc", "64tImPApRrsLJknYLbyHjRgKFbqW8dkk51POZSyr");
         var Recipients = Parse.Object.extend("Recipients");
         var query = new Parse.Query(Recipients);
@@ -36,9 +62,10 @@ window.onload = function () {
                     alert("Error: " + error.code + " " + error.message);
                 }        
             });
+            */
     }
     var CubbyBtn = document.getElementsByClassName("cubbies");
     for (var i = 0; i < CubbyBtn.length; i++) {
-        CubbyBtn[i].addEventListener("click", SelectCubbyHandler, false);
+        CubbyBtn[i].addEventListener("click", SelectCubbyHandler, true);
     }
 }

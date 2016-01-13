@@ -8,6 +8,8 @@ window.onload = function () {
 
 }
 function buttonClickHandler() {
+       
+    /*
         var hashtag = document.getElementById("codeInput").value;
         Parse.initialize("66cwJB2R2fW0wG2Va44hzWajskfe7tEsFKvIXnFc", "64tImPApRrsLJknYLbyHjRgKFbqW8dkk51POZSyr");
         var clientEmail = Parse.Object.extend("Recipients");
@@ -53,7 +55,47 @@ function buttonClickHandler() {
                 alert("please tyry again");
             }
         });
-        
+        */
+    var hashtag = document.getElementById("codeInput").value;
+    var x = new XMLHttpRequest();
+    x.open("GET", "http://localhost:3000/recipientsInfo/" + hashtag);
+    x.onload = function () {
+        if (x.status == 200) {
+            responseText = JSON.parse(x.responseText);
+            if (responseText.error == 0) {
+                var email = responseText.Box[0].email;
+                var size = responseText.Box[0].size;
+                var hashtag = responseText.Box[0].hashtag;
+                $.ajax({
+                    type: "POST",
+                    url: "https://mandrillapp.com/api/1.0/messages/send.json",
+                    data: {
+                        'key': 'AMRv8MoHRI87th94jyAkpw',
+                        'message': {
+                            'from_email': 'no-reply@parseapps.com',
+                            'to': [
+                                {
+                                    'email': email,
+                                    'name': 'hi',
+                                    'type': 'to'
+                                }
+                            ],
+                            'autotext': 'true',
+                            'subject': 'Your package has arrived',
+                            'html': 'your password is ' + hashtag
+                        }
+                    }
+                }).done(function (response) {
+                    console.log(response);
+                    localStorage.setItem("itemSize", size);
+                    localStorage.setItem("HashTag", hashtag)
+                    location.href = "chooseBox.html"
+                });
+            }
+        }
+    };
+    x.send(null);
+
 }
 
 function buttonReturn() {

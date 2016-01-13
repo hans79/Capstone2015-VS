@@ -32,7 +32,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProject\CapstoneProject\main.html">
       <PackagePath>main.html</PackagePath>
-      <Modified>2015-11-19T18:38:11.574</Modified>
+      <Modified>2016-01-02T04:25:47.488</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProject\CapstoneProject\courrier.html">
       <PackagePath>courrier.html</PackagePath>
@@ -40,7 +40,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProject\CapstoneProject\chooseBox.html">
       <PackagePath>chooseBox.html</PackagePath>
-      <Modified>2015-11-22T09:50:44.897</Modified>
+      <Modified>2016-01-13T01:56:02.597</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProject\CapstoneProject\css\chooseBox.css">
       <PackagePath>css\chooseBox.css</PackagePath>
@@ -94,7 +94,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProject\CapstoneProject\js\main.js">
       <PackagePath>js\main.js</PackagePath>
-      <Modified>2015-11-23T23:59:20.602</Modified>
+      <Modified>2016-01-11T18:13:28.607</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProject\CapstoneProject\js\script.js">
       <PackagePath>js\script.js</PackagePath>
@@ -102,11 +102,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProject\CapstoneProject\js\courrier.js">
       <PackagePath>js\courrier.js</PackagePath>
-      <Modified>2015-11-22T10:43:42.901</Modified>
+      <Modified>2016-01-11T18:16:07.808</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProject\CapstoneProject\js\chooseBox.js">
       <PackagePath>js\chooseBox.js</PackagePath>
-      <Modified>2015-11-24T22:12:02.160</Modified>
+      <Modified>2016-01-13T02:27:55.378</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProject\CapstoneProject\lib\parse-1.6.7.js">
       <PackagePath>lib\parse-1.6.7.js</PackagePath>
