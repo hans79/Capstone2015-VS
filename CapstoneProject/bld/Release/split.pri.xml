@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="6eceea2c-68c5-4470-ad68-321688b29799" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Language>EN-US</Language>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="boxid.html" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/boxid.html">
+				<Candidate type="Path">
+					<Value>boxid.html</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="chooseBox.html" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/chooseBox.html">
+				<Candidate type="Path">
+					<Value>chooseBox.html</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="courrier.html" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/courrier.html">
+				<Candidate type="Path">
+					<Value>courrier.html</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="home.html" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/home.html">
+				<Candidate type="Path">
+					<Value>home.html</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="main.html" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/main.html">
+				<Candidate type="Path">
+					<Value>main.html</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="css">
+				<NamedResource name="boxid.css" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/css/boxid.css">
+					<Candidate type="Path">
+						<Value>css\boxid.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="chooseBox.css" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/css/chooseBox.css">
+					<Candidate type="Path">
+						<Value>css\chooseBox.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="courrier.css" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/css/courrier.css">
+					<Candidate type="Path">
+						<Value>css\courrier.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="default.css" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/css/default.css">
+					<Candidate type="Path">
+						<Value>css\default.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="home.css" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/css/home.css">
+					<Candidate type="Path">
+						<Value>css\home.css</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="main.css" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/css/main.css">
+					<Candidate type="Path">
+						<Value>css\main.css</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/images/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo.jpg" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/images/logo.jpg">
+					<Candidate type="Path">
+						<Value>images\logo.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/images/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>images\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/images/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>images\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="js">
+				<NamedResource name="boxid.js" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/js/boxid.js">
+					<Candidate type="Path">
+						<Value>js\boxid.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="chooseBox.js" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/js/chooseBox.js">
+					<Candidate type="Path">
+						<Value>js\chooseBox.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="courrier.js" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/js/courrier.js">
+					<Candidate type="Path">
+						<Value>js\courrier.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="main.js" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/js/main.js">
+					<Candidate type="Path">
+						<Value>js\main.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="script.js" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/js/script.js">
+					<Candidate type="Path">
+						<Value>js\script.js</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="lib">
+				<NamedResource name="parse-1.6.7.js" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/lib/parse-1.6.7.js">
+					<Candidate type="Path">
+						<Value>lib\parse-1.6.7.js</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinJS">
+				<ResourceMapSubtree name="css">
+					<NamedResource name="ui-dark.css" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/WinJS/css/ui-dark.css">
+						<Candidate type="Path">
+							<Value>WinJS\css\ui-dark.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ui-light.css" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/WinJS/css/ui-light.css">
+						<Candidate type="Path">
+							<Value>WinJS\css\ui-light.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="fonts">
+					<NamedResource name="Symbols.ttf" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/WinJS/fonts/Symbols.ttf">
+						<Candidate type="Path">
+							<Value>WinJS\fonts\Symbols.ttf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="js">
+					<NamedResource name="base.js" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/WinJS/js/base.js">
+						<Candidate type="Path">
+							<Value>WinJS\js\base.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="jquery-2.1.4.min.js" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/WinJS/js/jquery-2.1.4.min.js">
+						<Candidate type="Path">
+							<Value>WinJS\js\jquery-2.1.4.min.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ui.js" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/WinJS/js/ui.js">
+						<Candidate type="Path">
+							<Value>WinJS\js\ui.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ui.strings.js" uri="ms-resource://6eceea2c-68c5-4470-ad68-321688b29799/Files/WinJS/js/ui.strings.js">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="Path">
+							<Value>WinJS\js\en-US\ui.strings.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

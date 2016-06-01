@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-UDF6J6U</Machine>
+    <WindowsUser>Hans</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6eceea2c-68c5-4470-ad68-321688b29799</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>243CE718DD519927B011C952509BCDF07A9C62F7F199D188D762995B019B82D4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6eceea2c-68c5-4470-ad68-321688b29799_1.4.3.0_neutral__hs605ttg4fbsc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6eceea2c-68c5-4470-ad68-321688b29799_hs605ttg4fbsc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6eceea2c-68c5-4470-ad68-321688b29799</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Hans</RegisteredPackagePublisher>
+    <RegisteredVersion>1.4.3.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-05T00:27:59.144</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\boxid.html">
+      <PackagePath>boxid.html</PackagePath>
+      <Modified>2016-04-05T05:52:56.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\main.html">
+      <PackagePath>main.html</PackagePath>
+      <Modified>2016-04-05T05:52:56.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\courrier.html">
+      <PackagePath>courrier.html</PackagePath>
+      <Modified>2016-04-05T05:52:56.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\chooseBox.html">
+      <PackagePath>chooseBox.html</PackagePath>
+      <Modified>2016-04-05T05:52:56.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\home.html">
+      <PackagePath>home.html</PackagePath>
+      <Modified>2016-04-05T05:52:56.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\UnitTest.html">
+      <PackagePath>UnitTest.html</PackagePath>
+      <Modified>2016-04-05T00:27:40.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\Content\jasmine\jasmine.css">
+      <PackagePath>Content\jasmine\jasmine.css</PackagePath>
+      <Modified>2016-04-04T23:12:49.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\css\chooseBox.css">
+      <PackagePath>css\chooseBox.css</PackagePath>
+      <Modified>2016-03-22T09:48:48.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\css\courrier.css">
+      <PackagePath>css\courrier.css</PackagePath>
+      <Modified>2016-03-22T09:59:21.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\css\home.css">
+      <PackagePath>css\home.css</PackagePath>
+      <Modified>2016-03-22T04:12:30.241</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\css\main.css">
+      <PackagePath>css\main.css</PackagePath>
+      <Modified>2016-03-22T10:01:03.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\css\boxid.css">
+      <PackagePath>css\boxid.css</PackagePath>
+      <Modified>2016-03-22T09:19:14.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-03-22T04:12:30.241</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2016-03-22T04:12:29.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2016-03-22T04:12:29.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\Content\jasmine\jasmine_favicon.png">
+      <PackagePath>Content\jasmine\jasmine_favicon.png</PackagePath>
+      <Modified>2016-04-04T23:12:49.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2016-03-22T04:12:30.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-22T04:12:30.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-22T04:12:30.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-22T04:12:30.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-22T04:12:30.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-22T04:12:30.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-22T04:12:30.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\Controllers\JasmineController.cs">
+      <PackagePath>Controllers\JasmineController.cs</PackagePath>
+      <Modified>2016-04-04T23:12:49.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\logo.jpg">
+      <PackagePath>images\logo.jpg</PackagePath>
+      <Modified>2016-03-22T04:12:30.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2016-04-05T05:30:02.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\js\script.js">
+      <PackagePath>js\script.js</PackagePath>
+      <Modified>2016-03-22T04:12:30.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\js\courrier.js">
+      <PackagePath>js\courrier.js</PackagePath>
+      <Modified>2016-04-05T06:06:38.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\js\chooseBox.js">
+      <PackagePath>js\chooseBox.js</PackagePath>
+      <Modified>2016-03-22T04:12:30.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\js\tests.js">
+      <PackagePath>js\tests.js</PackagePath>
+      <Modified>2016-04-05T00:52:12.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\lib\parse-1.6.7.js">
+      <PackagePath>lib\parse-1.6.7.js</PackagePath>
+      <Modified>2016-03-22T04:12:30.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\Scripts\jasmine-samples\Player.js">
+      <PackagePath>Scripts\jasmine-samples\Player.js</PackagePath>
+      <Modified>2016-04-04T23:12:49.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\Scripts\jasmine-samples\PlayerSpec.js">
+      <PackagePath>Scripts\jasmine-samples\PlayerSpec.js</PackagePath>
+      <Modified>2016-04-04T23:12:49.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\Scripts\jasmine-samples\Song.js">
+      <PackagePath>Scripts\jasmine-samples\Song.js</PackagePath>
+      <Modified>2016-04-04T23:12:49.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\Scripts\jasmine-samples\SpecHelper.js">
+      <PackagePath>Scripts\jasmine-samples\SpecHelper.js</PackagePath>
+      <Modified>2016-04-04T23:12:48.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\Scripts\jasmine\boot.js">
+      <PackagePath>Scripts\jasmine\boot.js</PackagePath>
+      <Modified>2016-04-04T23:12:48.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\Scripts\jasmine\console.js">
+      <PackagePath>Scripts\jasmine\console.js</PackagePath>
+      <Modified>2016-04-04T23:12:48.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\Scripts\jasmine\jasmine-html.js">
+      <PackagePath>Scripts\jasmine\jasmine-html.js</PackagePath>
+      <Modified>2016-04-04T23:12:48.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\Scripts\jasmine\jasmine.js">
+      <PackagePath>Scripts\jasmine\jasmine.js</PackagePath>
+      <Modified>2016-04-04T23:12:48.147</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2016-03-22T04:12:29.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2016-03-22T04:12:29.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\WinJS\js\jquery-2.1.4.min.js">
+      <PackagePath>WinJS\js\jquery-2.1.4.min.js</PackagePath>
+      <Modified>2016-03-22T04:12:29.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2016-03-22T04:12:29.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\packages.config">
+      <PackagePath>packages.config</PackagePath>
+      <Modified>2016-04-04T23:18:28.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\Views\Jasmine\SpecRunner.cshtml">
+      <PackagePath>Views\Jasmine\SpecRunner.cshtml</PackagePath>
+      <Modified>2016-04-04T23:12:47.189</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2016-03-22T04:12:29.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bin\Release\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-05T00:27:57.708</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+MainPackage=C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bin\Release\CapstoneProject_1.4.3.0_AnyCPU.appx

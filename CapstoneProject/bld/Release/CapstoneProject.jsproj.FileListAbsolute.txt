@@ -1,0 +1,16 @@
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bin\Release\AppxManifest.xml
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bin\Release\CapstoneProject.build.appxrecipe
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\Release\ResourceHandlingTask.state
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\Release\priconfig.xml
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\Release\priconfig.xml.intermediate
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\Release\layout.resfiles
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\Release\layout.resfiles.intermediate
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\Release\resources.resfiles
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\Release\resources.resfiles.intermediate
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\Release\pri.resfiles
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\Release\pri.resfiles.intermediate
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\Release\qualifiers.txt
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\Release\qualifiers.txt.intermediate
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\Release\ProjectArchitectures.txt
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bin\Release\ReverseMap\resources.pri

@@ -1,0 +1,80 @@
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bin\x86\Debug\ReverseMap\resources.pri
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bin\x86\Debug\AppxManifest.xml
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bin\x86\Debug\CapstoneProject.build.appxrecipe
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\ResourceHandlingTask.state
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\priconfig.xml
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\priconfig.xml.intermediate
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\layout.resfiles
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\layout.resfiles.intermediate
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\resources.resfiles
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\resources.resfiles.intermediate
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\pri.resfiles
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\pri.resfiles.intermediate
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\qualifiers.txt
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\qualifiers.txt.intermediate
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\hans\documents\visual studio 2015\Projects\CapstoneProject\CapstoneProject\bld\x86\Debug\ProjectArchitectures.txt
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bin\x86\Debug\ReverseMap\resources.pri
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bin\x86\Debug\AppxManifest.xml
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bin\x86\Debug\CapstoneProject.build.appxrecipe
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bld\x86\Debug\ResourceHandlingTask.state
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bld\x86\Debug\priconfig.xml
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bld\x86\Debug\priconfig.xml.intermediate
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bld\x86\Debug\layout.resfiles
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bld\x86\Debug\layout.resfiles.intermediate
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bld\x86\Debug\resources.resfiles
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bld\x86\Debug\resources.resfiles.intermediate
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bld\x86\Debug\pri.resfiles
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bld\x86\Debug\pri.resfiles.intermediate
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bld\x86\Debug\qualifiers.txt
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bld\x86\Debug\qualifiers.txt.intermediate
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bld\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\CapstoneProject\layoverboxwebapp\windowsapp\CapstoneProject\CapstoneProject\bld\x86\Debug\ProjectArchitectures.txt
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bin\x86\Debug\ReverseMap\resources.pri
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bin\x86\Debug\AppxManifest.xml
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bin\x86\Debug\CapstoneProject.build.appxrecipe
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\ResourceHandlingTask.state
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\priconfig.xml
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\priconfig.xml.intermediate
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\layout.resfiles
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\layout.resfiles.intermediate
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\resources.resfiles
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\resources.resfiles.intermediate
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\pri.resfiles
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\pri.resfiles.intermediate
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\qualifiers.txt
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Hans\Documents\Visual Studio 2015\Projects\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\ProjectArchitectures.txt
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bin\x86\Debug\ReverseMap\resources.pri
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bin\x86\Debug\AppxManifest.xml
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bin\x86\Debug\CapstoneProject.build.appxrecipe
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\ResourceHandlingTask.state
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\priconfig.xml
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\priconfig.xml.intermediate
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\layout.resfiles
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\layout.resfiles.intermediate
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\resources.resfiles
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\resources.resfiles.intermediate
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\pri.resfiles
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\pri.resfiles.intermediate
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\qualifiers.txt
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\qualifiers.txt.intermediate
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\CapstoneMarchVersion\windowsapp\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\ProjectArchitectures.txt
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bin\x86\Debug\ReverseMap\resources.pri
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bin\x86\Debug\AppxManifest.xml
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bin\x86\Debug\CapstoneProject.build.appxrecipe
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\ResourceHandlingTask.state
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\priconfig.xml
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\priconfig.xml.intermediate
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\layout.resfiles
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\layout.resfiles.intermediate
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\resources.resfiles
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\resources.resfiles.intermediate
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\pri.resfiles
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\pri.resfiles.intermediate
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\qualifiers.txt
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\ProjectArchitectures.txt

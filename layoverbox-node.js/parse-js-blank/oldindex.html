@@ -1,0 +1,238 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+
+  <title>My Parse App</title>
+  <meta name="description" content="My Parse App">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/styles.css">
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+  <script type="text/javascript" src="http://www.parsecdn.com/js/parse-latest.js"></script>
+</head>
+
+<body>
+  <div id="home">
+  
+	
+    <!--<h1>Welcome The Layover Box!</h1>-->
+
+	<!--<form id="post-form">-->
+		<h1>Please Select Your Layover Box Address</h1>
+	<!--</form>-->
+	
+	<div>
+		<p><button id="homepage">Home Page</button><p>
+		<p>
+		<a id="option1" href="index.html">Enter the Layover Box Address</a>
+		</p>
+	</div>
+	
+	
+	
+	<ul id="address-detail" data-id="">
+	
+	</ul>
+	
+	<ul id="list-address">
+		<!-- list of address 
+		     <li>
+				<H3>Title
+				<p>Content
+		-->
+	</ul>
+    
+  </div>
+  
+    <div id="homebottom">
+	<!--  <h1 "id=layoverinc">Layover Inc</h1>  -->
+	<a id="logo" image="image/logo.jpg" >
+	<img src="image/logo.jpg" alt="layoverinc" height="100" width="400">
+	</a>
+	<h2 id="section1">
+	Friendly, on-time deliveries or your money back
+	</h2>
+	<h2>
+	We provide package pickup boxes in your neighbourhood
+	</h2>
+  </div>
+
+  <script type="text/javascript">
+  
+  /*Parse Version*/
+   /* Parse.initialize("66cwJB2R2fW0wG2Va44hzWajskfe7tEsFKvIXnFc", "64tImPApRrsLJknYLbyHjRgKFbqW8dkk51POZSyr");
+    var Post = Parse.Object.extend("Post");
+	
+	$("#clear").click(function(event){
+		location.reload();
+	});
+    
+	function goBack() {
+		window.history.back();
+	}
+	
+	$("#list-address").on("click","a", function(event){
+		event.preventDefault();
+		var id = $(this).attr("href");
+		var query = new Parse.Query(Post);
+		query.equalTo("objectId", id);
+		query.find({
+			success: function(results){
+				var LayoverBoxAddress = results[0].get("LayoverBoxAddress");
+				var SmallCubbyAvailable = results[0].get("SmallCubbyAvailable");
+				var MediumCubbyAvailable = results[0].get("MediumCubbyAvailable");
+				var LargeCubbyAvailable = results[0].get("LargeCubbyAvailable");
+				var id = results[0].id;
+				var output = "";
+				
+				output += "<h3>"+"Layover Box Address: "+LayoverBoxAddress+"</h3>";
+				output += "<p>"+"Small Cubbies Available: "+SmallCubbyAvailable+"</p>";
+				output += "<p>"+"Medium Cubbies Available: "+MediumCubbyAvailable+"</p>";
+				output += "<p>"+"Large Cubbies Available: "+LargeCubbyAvailable+"</p>"; 
+				
+				$("#address-detail").html(output);
+				$("address-detail").attr("data-id", id);
+			}, error: function(error) {
+				console.log(error.message);
+			}
+		});
+	}); */
+	
+	/*function to display the list of address*/
+	/*function getPosts(address) {
+	    //query actually returns an array of parse objects
+		var query = new Parse.Query(Post);
+		query.find({
+			success: function(results){
+				var output = "";
+
+				for (i in results){
+					var LayoverBoxAddress = results[i].get("LayoverBoxAddress");
+					var SmallCubbyAvailable = results[i].get("SmallCubbyAvailable");
+					var MediumCubbyAvailable = results[i].get("MediumCubbyAvailable");
+					var LargeCubbyAvailable = results[i].get("LargeCubbyAvailable");
+					var id = results[i].id;
+					
+					console.log("Layover Box Address: "+LayoverBoxAddress);
+					console.log("Small Cubbies Available: "+SmallCubbyAvailable);
+					console.log("Medium Cubbies Available: "+MediumCubbyAvailable);
+					console.log("Large Cubbies Available: "+LargeCubbyAvailable);
+					
+					output += "<h3><a href='"+id+"'>"+LayoverBoxAddress+"</a></h3>";
+					
+					
+				}
+				//set html to the output string that we generated in the for loop
+				$("#list-address").html(output);
+			}, error: function(error){
+				console.log("Query Error:"+error.message);
+			}
+		});
+	}
+	
+	getPosts(); */
+	
+	/*MySQL Version*/
+	window.onload = function () {
+                    var homepageButton = document.getElementById("homepage");
+                    homepageButton.addEventListener("click", homepageBtn, false);
+    }
+	
+	$("#list-address").on("click","a", function(event){
+		event.preventDefault();
+		var id = $(this).attr("href");
+		console.log("id is: "+id);
+		var x = new XMLHttpRequest();
+		x.open("GET", "http://localhost:3000/post/");
+		x.onload = function () {
+			//console.log("onload");
+            if (x.status == 200) {  
+				//console.log("statusok")
+                responseText = JSON.parse(x.responseText);
+                if (responseText.error == 0) {
+                    var length = responseText.Box.length - 1;
+					//var i = length;
+					
+					//for (;i>=0;i--){
+					
+					var LayoverBoxAddress = responseText.Box[id-1].campus_box_address_location;
+					var SmallCubbyAvailable = responseText.Box[id-1].small_cubby_available;
+					var MediumCubbyAvailable = responseText.Box[id-1].medium_cubby_available;
+					var LargeCubbyAvailable = responseText.Box[id-1].large_cubby_available;
+					//var id = responseText.Box[1].id;
+					var output = "";
+					
+					output += "<h3>"+"Layover Box  Address: "+LayoverBoxAddress+"</h3>";
+					output += "<p>"+"Small Cubbies（10*10*10）Available: "+SmallCubbyAvailable+"</p>";
+					output += "<p>"+"Medium Cubbies（20*20*20）Available: "+MediumCubbyAvailable+"</p>";
+					output += "<p>"+"Large Cubbies（30*30*30）Available: "+LargeCubbyAvailable+"</p>";
+					
+					
+					//set html to the output string that we generated in the for loop
+					$("#address-detail").html(output);
+					//$("address-detail").attr("data-id", id);
+					//}
+					
+                }
+            }
+			}
+		x.send(null);
+        })
+	
+	
+	function getPosts(address) {
+		var x = new XMLHttpRequest();
+		x.open("GET", "http://localhost:3000/post/");
+		x.onload = function () {
+			//console.log("onload");
+            if (x.status == 200) {  
+				//console.log("statusok")
+                responseText = JSON.parse(x.responseText);
+                if (responseText.error == 0) {
+                    var length = responseText.Box.length - 1;
+					var i = length;
+					var output = "";
+					for (;i>=0;i--){
+					
+					var LayoverBoxAddress = responseText.Box[i].campus_box_address_location;
+					var SmallCubbyAvailable = responseText.Box[i].small_cubby_available;
+					var MediumCubbyAvailable = responseText.Box[i].medium_cubby_available;
+					var LargeCubbyAvailable = responseText.Box[i].large_cubby_available;
+					var id = responseText.Box[i].id;
+					console.log("id is: "+id);
+					console.log("Layover Box Address: "+LayoverBoxAddress);
+					console.log("Small Cubbies Available: "+SmallCubbyAvailable);
+					console.log("Medium Cubbies Available: "+MediumCubbyAvailable);
+					console.log("Large Cubbies Available: "+LargeCubbyAvailable);
+					
+					output += "<h3><a href='"+id+"'>"+LayoverBoxAddress+"</a></h3>";
+					//set html to the output string that we generated in the for loop
+					$("#list-address").html(output);
+					}
+					
+                }
+            }
+			}
+		x.send(null);
+        }
+	
+	getPosts();
+	
+	
+	function homepageBtn() {
+            location.href = "home.html";
+        }
+	
+	$("#clear").click(function(event){
+		location.reload();
+	});
+	
+	
+	
+	
+	
+	
+  </script>
+</body>
+
+</html>

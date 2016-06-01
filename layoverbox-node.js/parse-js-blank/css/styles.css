@@ -1,0 +1,252 @@
+/*General CSS settings*/
+body {
+    background: #F8F8FF; /*#FFFFFF white*/
+	border:none;/*solid #d0d0d0;*/
+	/*border-width:1 1px 1px 1px;*/
+    text-align: center;
+    padding: 0 25px;
+}
+
+h1 {
+    margin-top: 0px;
+    font-size: 50px;
+	font-family: Georgia;
+	font-style: italic;
+}
+
+h2 {
+    margin-top: 12px;
+	font-family: Georgia;
+	font-style: italic;
+}
+
+input[type="text"] 
+    {
+    background-color:#00FFFF;
+	line-height: 25px;
+	font-size: 25px;
+    }
+
+#home {
+    width: auto;
+    margin: auto;
+    text-align: center;
+    background: none;/*#888888*/
+    padding: 100px 0px;
+    border: none/*solid #d0d0d0*/
+    /*border-width: 1 1px 1px 1px;*/
+}
+
+#home a:hover {
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#home ul {
+    padding-left: 20px;
+}
+
+#home button {
+    position: relative;
+    display: inline-block;
+    background: #40E0D0; /*#D0EEFF;*/
+    border: 1px solid #99D3F5;
+    border-radius: 4px;
+    padding: 4px 12px;
+    overflow: hidden;
+    color: #FFFFFF;/*#1E88C7;*/
+    text-decoration: none;
+    text-indent: 0;
+    line-height: 25px;
+	font-size: 25px;
+}
+
+#home button:hover {
+    background: #888888; /*#AADFFD;*/
+    border-color: #78C3F3;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#home .error {
+    border: 1px solid red;
+    background: #FDEFF0;
+    padding: 20px;
+}
+
+#home .success {
+    margin-top: 25px;
+}
+
+#home .success code {
+    font-size: 12px;
+    color: green;
+    line-height: 13px;
+}
+
+#homebottom {
+	position: relative;
+    margin-top:100px;
+	width: auto;
+    margin: auto;
+    text-align: center;
+    /*padding: 100px 0px;*/
+    border: none
+}
+
+#homebottom h1 {
+	margin-bottom: 0px;
+    font-size: 35px;
+	font-family: Georgia;
+	font-style: italic;
+}
+
+/*CSS for homepage*/
+#enteraddress{
+	margin: auto;
+	display:block;
+	font-weight:bold;
+	font-size:25px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;/*4169E1*/
+	background-color:#40E0D0;
+	width:500px;
+	text-align:center;
+	padding:4px;
+	text-decoration:none;
+}
+
+#selectaddress{
+	margin: auto;
+	display:block;
+	font-weight:bold;
+	font-size:25px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;/*4169E1*/
+	background-color:#40E0D0;
+	width:500px;
+	text-align:center;
+	padding:4px;
+	text-decoration:none;
+}
+
+/*CSS for index.html*/
+#post-submit {
+    position: relative;
+    display: inline-block;
+    background: #40E0D0; /*#D0EEFF;*/
+    border: 1px solid #99D3F5;
+    border-radius: 4px;
+    padding: 4px 12px;
+    overflow: hidden;
+    color: #FFFFFF;/*#1E88C7;*/
+    text-decoration: none;
+    text-indent: 0;
+    line-height: 25px;
+	font-size: 25px;
+}
+
+#post-submit:hover {
+    background: #888888; /*#AADFFD;*/
+    border-color: #78C3F3;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#list-posts h2{
+	color: #FF0000;
+}
+
+#list-posts h3{
+	margin-top: 12px;
+	font-family: Georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+#list-posts p{
+	margin-top: 12px;
+	font-family: Georgia;
+	font-style: italic;
+	font-size: 20px;
+}
+
+#option2 {
+    position: relative;
+    display: inline-block;
+    background: #D0EEFF;
+    border: 1px solid #99D3F5;
+    border-radius: 4px;
+    padding: 4px 12px;
+    overflow: hidden;
+    color: #1E88C7;
+    text-decoration: none;
+    text-indent: 0;
+    line-height: 25px;
+	font-size: 25px;
+}
+
+#option2:hover {
+    background: #AADFFD;
+    border-color: #78C3F3;
+    color: #004974;
+    text-decoration: none;
+}	
+	
+/*CSS for oldindex.html*/
+#address-detail h3{
+	margin-top: 12px;
+	font-family: Georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+#address-detail p{
+	margin-top: 12px;
+	font-family: Georgia;
+	font-style: italic;
+	font-size: 20px;
+}
+
+#list-address a{
+	margin: auto;
+	display:block;
+	font-weight:bold;
+	font-size:25px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#FFFFFF;/*4169E1*/
+	background-color:#40E0D0;
+	width:500px;
+	text-align:center;
+	padding:4px;
+	text-decoration:none;
+}
+
+#option1 {
+    position: relative;
+    display: inline-block;
+    background: #D0EEFF;
+    border: 1px solid #99D3F5;
+    border-radius: 4px;
+    padding: 4px 12px;
+    overflow: hidden;
+    color: #1E88C7;
+    text-decoration: none;
+    text-indent: 0;
+    line-height: 25px;
+	font-size: 25px;
+}
+
+#option1:hover {
+    background: #AADFFD;
+    border-color: #78C3F3;
+    color: #004974;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-UDF6J6U</Machine>
+    <WindowsUser>Hans</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>6eceea2c-68c5-4470-ad68-321688b29799</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bld\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\boxid.html">
+      <PackagePath>boxid.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\main.html">
+      <PackagePath>main.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\courrier.html">
+      <PackagePath>courrier.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\chooseBox.html">
+      <PackagePath>chooseBox.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\home.html">
+      <PackagePath>home.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\css\chooseBox.css">
+      <PackagePath>css\chooseBox.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\css\courrier.css">
+      <PackagePath>css\courrier.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\css\home.css">
+      <PackagePath>css\home.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\css\main.css">
+      <PackagePath>css\main.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\css\boxid.css">
+      <PackagePath>css\boxid.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\images\logo.jpg">
+      <PackagePath>images\logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\js\boxid.js">
+      <PackagePath>js\boxid.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\js\script.js">
+      <PackagePath>js\script.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\js\courrier.js">
+      <PackagePath>js\courrier.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\js\chooseBox.js">
+      <PackagePath>js\chooseBox.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\lib\parse-1.6.7.js">
+      <PackagePath>lib\parse-1.6.7.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\WinJS\js\jquery-2.1.4.min.js">
+      <PackagePath>WinJS\js\jquery-2.1.4.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Hans\Desktop\CapstoneProjectNew\CapstoneProject\bin\x86\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
